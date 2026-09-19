@@ -26,6 +26,7 @@ body {
 	z-index: 99999999;
 	top: 0;
 	left: 0;
+  border-radius: 16px;
 }
 
 .points {
